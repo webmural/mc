@@ -1,5 +1,4 @@
-# [formula](index.html)
+# [`mc`](index.html)
 
-* [MathML](https://mdn.io/mathml)
-* [HTML](https://webmural.com/html)
-* [CSS](https://webmural.com/css)
+* [<i>midheaven</i>](https://webmural.com/mc/#seene)
+* [<samp>emcee</samp>](https://webmural.com/mc/#samba)
