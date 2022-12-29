@@ -1,0 +1,26 @@
+html {
+  font-size: max(36px, 10vmin);
+  font-family: monospace;
+  line-height: 1.6;
+}
+
+body { margin: 0 }
+b { font-size: 1.6em }
+b { vertical-align: middle }
+s { text-decoration-style: wavy }
+
+main {
+  display: flex;
+  flex-flow: column;
+}
+
+article {
+  align-items: center;
+  display: flex;
+  flex-flow: column;
+  min-height: 100vh;
+  padding-inline: 1ex;
+}
+
+.fly { margin-bottom: auto }
+.bye { margin-top: auto }
