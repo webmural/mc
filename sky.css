@@ -1,0 +1,50 @@
+::selection {
+  background: deepskyblue;
+  color: #101;
+}
+
+:root {
+  color: #ddd;
+  background: #111;
+}
+
+:focus {
+  outline: thick groove;
+}
+
+:any-link {
+  color: inherit;
+  filter: hue-rotate(-36deg);
+}
+
+:any-link:focus,
+:any-link:hover {
+  filter: hue-rotate(-72deg);
+}
+
+.shy {
+  text-shadow:
+    0 -1vh 1vmin,
+    0 -3vh 1vmin,
+    0 -5vh 2vmin,
+    0 -8vh 3vmin,
+    0 -13vh 5vmin,
+    0 -21vh 8vmin,
+    0 -34vh 13vmin,
+    0 -55vh 21vmin;
+}
+
+.alove {
+   color: #012;
+   background-color: violet;
+   background-image: linear-gradient(.5turn, coral, violet, salmon, powderblue, lightskyblue, skyblue, deepskyblue);
+}
+
+.alone {
+   color: pink;
+   color: salmon;
+   color: papayawhip;
+   color: peachpuff;
+   background-color: purple;
+   background-image: linear-gradient(.5turn, blueviolet, darkviolet, darkmagenta, purple, indigo, midnightblue, #111);
+}
